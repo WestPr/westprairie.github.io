@@ -9,7 +9,7 @@
 - [ティーフリング](races/tiefling.md)
 - [ドラゴンボーン](races/dragonborn.md)
 - [ハーフオーク](races/half-orc.md)
-- [グノーム](races/gnome.md)
+- [ノーム](races/gnome.md)
 
 ## クラス別
 - [ファイター](classes/fighter.md)
