@@ -1,6 +1,6 @@
 # Baldur's Gate 3 ノート
 
-## 種族別
+## 種族
 - [ヒューマン](races/human.md)
 - [ハーフエルフ](races/half-elf.md)
 - [エルフ](races/elf.md)
@@ -11,7 +11,7 @@
 - [ハーフオーク](races/half-orc.md)
 - [ノーム](races/gnome.md)
 
-## クラス別
+## クラス
 - [ファイター](classes/fighter.md)
 - [ローグ](classes/rogue.md)
 - [ウィザード](classes/wizard.md)
