@@ -1,4 +1,4 @@
-#種族「ハーフエルフ」
+## 種族「ハーフエルフ」
 
 ハーフエルフは、ヒューマンとエルフの血を引く種族で、バランスの取れた能力が特徴です。
 
@@ -81,3 +81,4 @@
 ハーフエルフは、Darkvision、Fey Ancestry、Skill Versatility により、戦闘と RP で高い汎用性を発揮します。
 
 参考: Fextralife Wiki, GameRant, Reddit, IGN, X 投稿。
+
